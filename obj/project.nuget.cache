@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y3xQtYq8SQP6vkvCbXKkNF8XlkrR9A8XZpcuXHemZ4jI0YI9A+In1pJlKzY7LuphlapgC+kivY/31pG9LnJJtw==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\LJIMM23002\\1dhaproject\\1DotNet\\MonitoringAI\\AIWebASP\\AIWebASP.csproj",
+  "expectedPackageFiles": [
+    "D:\\Users\\LJIMM23002\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.1\\microsoft.extensions.logging.abstractions.7.0.1.nupkg.sha512",
+    "D:\\Users\\LJIMM23002\\.nuget\\packages\\mysqlconnector\\2.3.5\\mysqlconnector.2.3.5.nupkg.sha512"
+  ],
+  "logs": []
+}
